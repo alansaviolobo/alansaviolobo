@@ -1,0 +1,75 @@
+TECH SUPPORT  
+
+Just in case you think you are TC (technologically challenged).
+ The following is an excerpt taken from a Wall Street Journal article:
+
+1.Compaq is considering changing the command "Press Any Key" to "Press Return Key"
+	because of the flood of calls asking where the "Any" key is.
+
+2.AST technical support had a caller complaining that her mouse was hard to control with 
+	the dust cover on. The cover turned out to be the plastic bag the mouse was packaged in
+
+3.Another Compaq technician received a call from a man complaining that the system wouldn't
+	read word processing files from his old diskettes.After trouble-shooting for magnets and
+	heat failed to diagnose the problem, it was found that the customer had labeled the
+ 	diskettes, then rolled them into the typewriter to type the labels.
+
+4.Another AST customer was asked to send a copy of her defective diskettes. A few days later
+	a letter arrived from the customer along with photocopies of the floppies.
+
+5.A Dell technician advised his customer to put his troubled floppy back in the drive and
+	close the door. The customer asked the tech to hold on, and was heard putting the phone
+	down, getting up and crossing the room to close the door to his room.
+
+6.Another Dell customer called to say he couldn't get his computer to fax anything. After
+	40 minutes of trouble-shooting, the technician discovered the man was trying to fax a
+	piece of paper by holding it in front of the monitor screen and hitting the "send" key
+
+7.Yet another Dell customer called to complain that his keyboard no longer worked. He had
+	cleaned it by filling up his tub with soap and water and soaking the keyboard for a
+	day, then removing all the keys and washing them individually.
+
+8.A Dell technician received a call from a customer who was enraged because his computer had
+	told him he was "bad and an invalid". The tech explained that the computer's
+	"bad command" and "invalid" responses shouldn't be taken personally.
+
+9.A confused caller to IBM was having troubles printing documents. He told the technician that
+the computer had said it "couldn't find printer". The user had also tried turning the computer
+screen to face the printer - but that his computer still couldn't "see" the printer.
+
+10.An exasperated caller to Dell Computer Tech Support couldn't get her new Dell Computer to
+	turn on. After ensuring the computer was plugged in, the technician asked her what
+happened when she pushed the power button. Her response, "I pushed and pushed on this foot
+pedal and nothing happens." The "foot pedal" turned out to be the computer's mouse.
+
+11.Another customer called Compaq tech support to say her brand-new computer wouldn't  work.
+	She said she unpacked the unit, plugged it in and sat there for 20 minutes waiting for
+	something to happen. When asked what happened when she pressed the power switch, she
+	asked "What power switch?"
+
+12.True story from a Novell NetWire SysOp:
+
+Caller: "Hello, is this Tech Support?"
+Tech  : "Yes, it is. How may I help you?"
+Caller: "The cup holder on my PC is broken and I am within my warranty period. How do I go 
+		about getting that fixed?"
+Tech  : "I'm sorry, but did you say a cup holder?"
+Caller: "Yes, it's attached to the front of my computer."
+Tech  : "Please excuse me if I seem a bit stumped, It's because I am. Did you receive this as
+		part of a promotional, at a trade show? How did you get this cup holder?
+		Does it have any trademark on it?"
+Caller: "It came with my computer, I don't know anything about a promotional. It just has '4X'
+		on it." At this point the Tech Rep had to mute the caller, because he couldn't
+		stand it. He was laughing too hard. The caller had been using the load drawer
+		of the CD-ROM drive as a cup holder, and snapped it off the drive!
+
+13.Another IBM customer had troubles installing software and rang for support. "I put in the
+	first disk, and that was OK. It said to put in the second disk, and had some problems
+	with the disk. When it said to put in the third disk - I couldn't even fit it in..."
+	The user hadn't realized that "Insert Disk 2" meant to remove Disk 1 first.
+
+14.In a similar incident, a customer had followed the instructions for installing software. The
+	instructions said to remove the disk from it's cover and insert into the drive.The user
+	had physically removed the casing of the disk and wondered why there were problems.
+
+    As Ripley would say, believe it or not!
